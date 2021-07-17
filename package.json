@@ -1,0 +1,29 @@
+{
+  "name": "create_zip",
+  "version": "1.0.0",
+  "description": "This package will create a zip file based on the directory found.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dderrickmatheww/create_zip_node.git"
+  },
+  "keywords": [
+    "zip",
+    "node",
+    "file",
+    "fs"
+  ],
+  "author": "Derrick Montgomery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dderrickmatheww/create_zip_node/issues"
+  },
+  "homepage": "https://github.com/dderrickmatheww/create_zip_node#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jszip": "^3.6.0"
+  }
+}
