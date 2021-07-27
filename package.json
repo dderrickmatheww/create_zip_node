@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/dderrickmatheww/create_zip_node#readme",
   "dependencies": {
-    "inquirer": "^8.1.2",
-    "jszip": "^3.6.0"
+    "archiver": "^5.3.0",
+    "inquirer": "^8.1.2"
   }
 }
