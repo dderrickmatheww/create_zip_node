@@ -18,6 +18,9 @@
   ],
   "author": "Derrick Montgomery",
   "license": "ISC",
+  "bin": {
+    "create-zip": "./cli.js"
+  },
   "bugs": {
     "url": "https://github.com/dderrickmatheww/create_zip_node/issues"
   },
