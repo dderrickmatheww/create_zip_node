@@ -10,8 +10,8 @@
 - Follow and answer all questions prompted
 
 ***NPM Packages used***
-- jszip (outside package)
-    - Security overview: https://snyk.io/advisor/npm-package/jszip
+- archiver (outside package)
+    - Security overview: https://snyk.io/advisor/npm-package/archiver
 - fs (apart of node)
 - util (apart of node)
 - child_process (apart of node)
