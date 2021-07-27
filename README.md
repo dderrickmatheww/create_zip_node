@@ -7,7 +7,7 @@
 - This npm package zips up your current directory and publishes it one directory
 
 ***How to use***
-- Navigate to the directory you would like to create your project in.
+- Navigate to the directory you would like to create your zip file from
 - Open a terminal
 - Run command: "create-zip"
 - Follow and answer all questions prompted
